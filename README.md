@@ -16,10 +16,12 @@ website ini di peruntukan untuk perusahaan yang ingin mempunyain system absensi
 
 
 ## users 
-<h1>admin</h1>
+admin
+
 - memiliki semua akses
 
-<h1>karyawan</h1>
+karyawan
+ 
 - konfirmasi-kehadiran (absen)
 - konfirmasi-keluar
 - konfirmasi-izin
