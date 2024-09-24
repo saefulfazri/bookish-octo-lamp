@@ -40,7 +40,7 @@ karyawan
 - web browser
 
 ## Entity Relationship Diagram (ERD)
-![CHEESE!](absensi ( ERD ).png)
+![CHEESE!](absensi(ERD).png)
 
 
 ## UML Use Case Diagram
