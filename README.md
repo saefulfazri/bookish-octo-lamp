@@ -35,6 +35,7 @@ karyawan
 
 ## persyaratan 
 - php 8.0
+- bootstrap 4
 - laravel 10
 - imagick
 - web browser
