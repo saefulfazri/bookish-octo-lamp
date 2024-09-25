@@ -33,7 +33,7 @@ karyawan
 | admin@gmail.com | 12345678 |
 
 
-## persyaratan 
+## teknologi yang di pakai
 - php 8.0
 - bootstrap 4
 - laravel 10
