@@ -69,7 +69,7 @@ DB_PASSWORD=
 ```sh
 php artisan migrate
 php artisan db:seed --class=karyawanSeeder
-php artsian db:seed --class=AdminSeeder
+php artisan db:seed --class=AdminSeeder
 ```
 4.run Website
 ```sh
